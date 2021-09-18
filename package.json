@@ -1,9 +1,10 @@
 {
   "name": "personal-portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "lite-server",
+  
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,7 @@
   "homepage": "https://github.com/surya4186/personal-portfolio#readme",
   "dependencies": {
     "lite-server": "^2.6.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
